@@ -1,0 +1,40 @@
+{
+  "name": "Café Treffpunkt Schillerpark",
+  "tagline": "Ihr gemütlicher Treffpunkt im Herzen von Wedding",
+  "description": "Das Café Treffpunkt Schillerpark ist mehr als nur ein Café – es ist ein Ort der Begegnung, wo Tradition auf Gemütlichkeit trifft. In unserem charmanten Café im Herzen des Wedding-Viertels können Sie ausgezeichneten Kaffee genießen, entspannen und die besondere Atmosphäre unseres Hauses erleben.",
+  "address": {
+    "street": "Schöningstraße 15",
+    "city": "Berlin",
+    "postalCode": "13349",
+    "district": "Wedding",
+    "country": "Deutschland"
+  },
+  "contact": {
+    "phone": "+49 30 XXX XXXX",
+    "email": "info@cafe-treffpunkt-schillerpark.de"
+  },
+  "hours": {
+    "monday": "11:00 - 00:00",
+    "tuesday": "11:00 - 03:00",
+    "wednesday": "11:00 - 03:00",
+    "thursday": "11:00 - 03:00",
+    "friday": "11:00 - 04:00",
+    "saturday": "11:00 - 05:00",
+    "sunday": "11:00 - 05:30"
+  },
+  "features": [
+    "Gemütliche Atmosphäre",
+    "Frisch gebrühter Kaffee",
+    "Hausgemachte Kuchen",
+    "Sport-TV (DAZN & Sky)",
+    "Freundlicher Service",
+    "Zentrale Lage am Schillerpark",
+    "Großzügige Öffnungszeiten",
+    "Terrasse im Sommer"
+  ],
+  "google": {
+    "rating": 4.8,
+    "reviewCount": 11,
+    "placeId": "ChIJPSw7UNpTqEcRfFc69PbRxGM"
+  }
+}

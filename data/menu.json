@@ -1,0 +1,41 @@
+{
+  "categories": [
+    {
+      "name": "Kaffee & Espresso",
+      "items": [
+        { "name": "Espresso", "price": "2,50 €", "description": "Kräftig und aromatisch" },
+        { "name": "Cappuccino", "price": "3,50 €", "description": "Mit cremigem Milchschaum" },
+        { "name": "Latte Macchiato", "price": "3,80 €", "description": "Geschichtet und mild" },
+        { "name": "Americano", "price": "3,00 €", "description": "Espresso mit heißem Wasser" },
+        { "name": "Filterkaffee", "price": "2,80 €", "description": "Frisch gebrüht" }
+      ]
+    },
+    {
+      "name": "Spezialitäten",
+      "items": [
+        { "name": "Chai Latte", "price": "4,20 €", "description": "Würzig und cremig" },
+        { "name": "Heiße Schokolade", "price": "3,80 €", "description": "Mit Sahne" },
+        { "name": "Matcha Latte", "price": "4,50 €", "description": "Grüner Tee Genuss" },
+        { "name": "Eiskaffee", "price": "4,50 €", "description": "Erfrischend im Sommer" }
+      ]
+    },
+    {
+      "name": "Kuchen & Gebäck",
+      "items": [
+        { "name": "Käsekuchen", "price": "3,50 €", "description": "Hausgemacht nach Berliner Art" },
+        { "name": "Apfelkuchen", "price": "3,50 €", "description": "Mit Zimt und Rosinen" },
+        { "name": "Schwarzwälder Kirschtorte", "price": "4,20 €", "description": "Klassiker" },
+        { "name": "Croissant", "price": "2,50 €", "description": "Knusprig und butterig" },
+        { "name": "Muffins", "price": "2,80 €", "description": "Verschiedene Sorten" }
+      ]
+    },
+    {
+      "name": "Snacks",
+      "items": [
+        { "name": "Belegtes Brötchen", "price": "4,50 €", "description": "Nach Wahl" },
+        { "name": "Toast", "price": "3,80 €", "description": "Mit Käse oder Schinken" },
+        { "name": "Brezel", "price": "2,00 €", "description": "Frisch gebacken" }
+      ]
+    }
+  ]
+}

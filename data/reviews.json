@@ -1,0 +1,24 @@
+{
+  "googleRating": "4.8/5",
+  "totalReviews": "11",
+  "featured": [
+    {
+      "author": "Local Guest",
+      "rating": 5,
+      "text": "Guter Kaffee und sehr gemütliche Atmosphäre. Das Personal ist freundlich und der Service ist ausgezeichnet. Ein perfekter Ort zum Entspannen!",
+      "date": "2024"
+    },
+    {
+      "author": "Berlin Visitor",
+      "rating": 5,
+      "text": "Ein wunderbarer Treffpunkt im Wedding! Der Kaffee schmeckt hervorragend und die Lage direkt am Schillerpark ist ideal für eine Pause nach dem Spaziergang.",
+      "date": "2024"
+    },
+    {
+      "author": "Regular Customer",
+      "rating": 5,
+      "text": "Ich komme regelmäßig hierher und fühle mich jedes Mal willkommen. Die Kuchen sind hausgemacht und einfach köstlich. Sehr zu empfehlen!",
+      "date": "2024"
+    }
+  ]
+}
